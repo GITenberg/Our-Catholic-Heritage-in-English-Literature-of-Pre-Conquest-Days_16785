@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6929'
     url: http://www.gutenberg.org/2009/agents/6929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16785#Our-Catholic-Heritage-in-English-Literature-of-Pre-Conquest-Days
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
